@@ -1,0 +1,50 @@
+{
+
+    "main_title":"Zusammenfassung",
+    "home_button":"Haus",
+    "about_button":"über",
+    "first_book": {
+        "key": "OL262556W",
+        "title": "Die Geschichte des Spiritualismus",
+        "authors": "J.R.R. Tolkien",
+        "genre": ["Spiritualismus", "Geschichte", "Kuriositäten und Wunder", "Spiritualität"],
+        "description": "Der schottische Schriftsteller Sir Arthur Conan Doyle (1859-1930) ist vor allem für seine Erschaffung der Figur Sherlock Holmes bekannt. Als ausgebildeter Arzt war Doyle – wie viele viktorianische Intellektuelle – vom Spiritualismus und seinem Versprechen einer Kommunikation mit dem Leben nach dem Tod fasziniert . Doyle glaubte fest an die Bewegung und behauptete als Beweis „Anzeichen einer gezielten und organisierten Invasion“ aus der Geisterwelt. 1926, gegen Ende seines Lebens, veröffentlichte er diese einflussreiche zweibändige Geschichte. Band Band 2 konzentriert sich auf berühmte Medien von 1870 bis zum Ersten Weltkrieg und untersucht Themen wie „Ektoplasma“, „Geisterfotografie“ und „Stimmmedium“. Doyle erörtert auch den in Europa praktizierten Spiritualismus und die religiösen Aspekte der Bewegung. Die Geschichte liefert wertvolle Informationen Einblicke in die Kultur des viktorianischen und frühen 20. Jahrhunderts und die Begeisterung und Kontroversen, die der Spiritualismus zu dieser Zeit hervorrief. ",
+        "excerpts":"Schlacht und Krieg!‘ sagte Gandalf. „Fahrt weiter!“, „Dieses Buch beschäftigt sich hauptsächlich mit den Hobbits, und auf seinen Seiten kann der Leser viel über ihren Charakter und ein wenig über ihre Geschichte erfahren. erster Satz",
+         "available":"true"
+    },   
+    "second_book": {
+        "key": "OL1548597W",
+        "title": "Über die Natur des Universums",
+        "authors": "Titus Lucretius Carus",
+        "genre": ["Poesie"],
+        "description": "Dies gilt als wegweisender Text der epikureischen Wissenschaft und Philosophie. Die Epikurianer verwarfen sowohl die Idee der Unsterblichkeit als auch die abergläubische Verehrung eigenwilliger Götter für ein Leben in gelassener Zufriedenheit mit den verfügbaren Freuden der Natur. Lucretius (ca. 100–55 v. Chr.) erklärt Dieser Glaube führt den Leser durch eine außergewöhnliche Bandbreite an Themen, die von der Unzerstörbarkeit der Atome und der Entdeckung des Feuers bis zur Torheit romantischer Liebe und den Phänomenen von Wolken und Regenstürmen reichen. ",
+        "excerpts":"Sie befinden sich gerade, der Weltraum ist nur 100 Kilometer entfernt. Tag oder Nacht, ob Sie drinnen oder draußen sind, schlafen, zu Mittag essen oder im Unterricht einnicken",
+        "available":"true" 
+    },
+    "third_book":{
+        "key": "OL4158858W",
+        "title": "Karel Appel",
+        "authors": "Karel Appel, Jean-Clarence Lambert, Kenneth White, Marshall McLahan, Johannes Gachnang, Donald Kuspit, and Jean Fremon",
+        "genre": ["Ausstellung", "Maler", "Kunst", "Geschichte"],
+        "description": "Juana Rosalia sueña con ser escritora. Duda konnte die Fiktion nicht in die Realität umwandeln, das Problem besteht darin, dass jedes Mal Situationen im Voraus provoziert werden. Diese Novelle fragt alle Jugendlichen: die Liebe, die Sexualität, die Tätowierungen, bis zu dem Punkt, an dem sie darüber nachdenken Unsere Wünsche und Konsequenzen. ",
+        "excerpts":"Tatsächlich befinden Sie sich technisch gesehen gerade im Weltraum. Die Menschen sagen 'draußen im Weltraum', als ob es dort wäre und wir hier wären, als ob die Erde vom Rest des Universums getrennt wäre. ",
+        "available":"true"
+    },
+    "fourth_book": {
+        "key": "OL82577W", 
+        "title": "Harry Potter und der Feuerkelch", 
+        "authors": "J. K. Rowling",
+        "genre": [ "Fiktion"], 
+        "description": "Im vierten Buch der Harry-Potter-Reihe kehrt Harry zusammen mit seinen Freunden Ron und Hermine für sein viertes Jahr an die Hogwarts-Schule für Hexerei und Zauberei zurück. Es steht ein bevorstehendes Turnier zwischen den drei großen Zauberschulen an, bei dem aus jeder Schule ein Teilnehmer durch den Feuerkelch ausgewählt wird. Wenn Harrys Name ausgelost wird, muss er an dem gefährlichen Wettbewerb teilnehmen, auch wenn er nicht teilnahmeberechtigt ist und ein vierter Spieler ist.",
+        "excerpts": "Die Dorfbewohner von Little Hangleton nannten es immer noch ‚das Riddle House‘, obwohl die Familie Riddle schon viele Jahre nicht mehr dort gelebt hatte. ",
+        "available":"true"
+    
+    },
+    "welcome_about_title":"Willkommen zur Buchzusammenfassung",
+    "welcome_about_para":"Unser Ziel ist es, die Welt der Literatur für Leser wie Sie zu vereinfachen. Unsere Mission ist es, Wissen für jedermann zugänglich zu machen und Ihnen dabei zu helfen, die einflussreichsten Bücher der Welt zu entdecken und daraus zu lernen, auch wenn Sie nur wenig Zeit haben.",
+    "why_book_summaries":"Warum Buchzusammenfassungen?",
+    "why_book_summaries_para":" Wir glauben, dass Buchzusammenfassungen ein wirksames Instrument für die persönliche und berufliche Weiterentwicklung sind. In der heutigen schnelllebigen Welt ist es nicht immer möglich, jedes Buch von vorne bis hinten zu lesen. Hier kommen wir ins Spiel. Unser Team aus leidenschaftlichen Lesern und Autoren destilliert sorgfältig die wichtigsten Erkenntnisse und Erkenntnisse aus jedem Buch und präsentiert sie Ihnen in prägnanten und leicht verständlichen Zusammenfassungen.",
+    "meet_the_team":"Triff das Team",
+    "meet_the_team_para":"Wir sind eine vielfältige Gruppe von Buchbegeisterten, Schriftstellern und Denkern, die eine gemeinsame Liebe zum Wissen und Lernen teilen. Unser Team ist bestrebt, Ihnen qualitativ hochwertige Zusammenfassungen zu liefern, die die Essenz jedes von uns behandelten Buches widerspiegeln. Wir erforschen ständig neue Genres und Autoren, um sicherzustellen, dass unsere Leser Zugang zu einer breiten Palette literarischer Schätze haben."
+
+}
