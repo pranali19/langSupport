@@ -2,19 +2,19 @@ const About=({t})=>{
     return (
         
             <div>
-        <strong>{t("welcome_about_title")}</strong>
+        <li>{t("welcome_about_title")}</li>
         <br/>
         <br/>
         <p>{t("welcome_about_para")}</p>
         <br/>
         <br/>
-        <strong>{t("why_book_summaries")}</strong>
+        <li>{t("why_book_summaries")}</li>
         <br/>
         <br/>
         <p>{t("why_book_summaries_para")}</p>
         <br/>
         <br/>
-        <strong>{t("meet_the_team")}</strong>
+        <li>{t("meet_the_team")}</li>
         <br/>
         <br/>
         <p>{t("meet_the_team_para")}</p>

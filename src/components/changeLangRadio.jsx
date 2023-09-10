@@ -1,31 +1,26 @@
+const RadioInput=({langCode,setCurrentLang,currentLang})=>{
+    return(
+        <label>
+        {langCode}
+        <input 
+            value={langCode}
+            name ='lang' 
+            type='radio'
+            checked={currentLang==langCode?true:false}
+            onChange={()=>setCurrentLang(langCode)}
+            />
+        </label>
+    )
+
+}
+
 const ChangeLngRadio=({setCurrentLang,currentLang})=>{
     return(
         <div className="radio-container">
-            <label for='en'/>
-            en<input 
-                value='en' 
-                name ='lang' 
-                type='radio' 
-                checked={currentLang=='en'?true:false}
-                onChange={()=>setCurrentLang('en')}/>
-            <label>
-            hi<input 
-                value='hi' 
-                name ='lang' 
-                type='radio'
-                checked={currentLang=='hi'?true:false}
-                onChange={()=>setCurrentLang('hi')}
-                />
-            </label>
-            <label>
-            de<input 
-                value='de' 
-                name ='lang' 
-                type='radio'
-                checked={currentLang=='de'?true:false}
-                onChange={()=>setCurrentLang('de')}
-                />
-            </label>
+            <RadioInput langCode={'en'} setCurrentLang={setCurrentLang} currentLang={currentLang} />
+            <RadioInput langCode={'hi'} setCurrentLang={setCurrentLang} currentLang={currentLang} />
+            <RadioInput langCode={'de'} setCurrentLang={setCurrentLang} currentLang={currentLang} />
+
         </div>
     )
 }
